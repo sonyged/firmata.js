@@ -26,7 +26,7 @@
   "dependencies": {
     "browser-serialport": "*",
     "es6-shim": "^0.33.6",
-    "serialport": "^3.0.0"
+    "serialport": "https://github.com/sonyged/node-serialport.git#koov-1_0_4"
   },
   "scripts": {
     "test": "grunt"
